@@ -25,3 +25,19 @@ This project demonstrates a powerful **multimodal AI system** that combines **BL
 - Hugging Face Hub for model access
 
 
+## 🌍 Real-World Applications
+- 👶 Children's Education – Describe images for interactive learning
+- 🧑‍⚕️ Healthcare – Auto-caption medical scans
+- 🛒 E-Commerce – Generate product descriptions from photos
+- ♿ Accessibility – Help visually impaired users understand images
+- 📰 Journalism & Content Creation – Auto-generate context and headlines
+
+## 🙌 Credits
+- 🤗 Hugging Face for the open-source models and tools
+- 🧠 Meta AI for LLaMA 3
+- 🔬 Salesforce Research for BLIP
+
+## 💬 Contact
+- Project by Ajmal
+- 📫 Email: 24f2004489@ds.study.iitm.ac.in
+- 🧪 Built for educational and research purposes only.
